@@ -1,0 +1,798 @@
+CRITICAL - 2022-12-02 13:04:52 --> syntax error, unexpected token "require", expecting "function" or "const"
+in APPPATH\Controllers\Home.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:05:03 --> Trait "App\Controllers\PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\Home.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-12-02 13:05:38 --> syntax error, unexpected token "require", expecting "function" or "const"
+in APPPATH\Controllers\Home.php on line 8.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:05:48 --> Trait "App\Controllers\PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\Home.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-12-02 13:05:58 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 4.
+ 1 APPPATH\Controllers\Home.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/autoload.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Home.php', 4)
+ 2 APPPATH\Controllers\Home.php(4): require()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once('APPPATH\\Controllers\\Home.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Home.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 7 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Home', true)
+ 8 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:16:59 --> syntax error, unexpected identifier "text", expecting "]"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:00 --> syntax error, unexpected identifier "text", expecting "]"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:01 --> syntax error, unexpected identifier "text", expecting "]"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:02 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:03 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:04 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:05 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:06 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:07 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:08 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:09 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:17:10 --> Undefined array key "fecha_creacion"
+in APPPATH\Controllers\Libros.php on line 87.
+ 1 APPPATH\Controllers\Libros.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha_creacion"', 'APPPATH\\Controllers\\Libros.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->consulta()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:28:55 --> Undefined variable $db
+in APPPATH\Controllers\Home.php on line 41.
+ 1 APPPATH\Controllers\Home.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'APPPATH\\Controllers\\Home.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->exportar1()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 13:29:40 --> Undefined variable $fecha_desde2
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fecha_desde2', 'APPPATH\\Controllers\\Home.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->exportar1()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:27:39 --> Undefined variable $libro
+in APPPATH\Controllers\Home.php on line 118.
+ 1 APPPATH\Controllers\Home.php(118): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'APPPATH\\Controllers\\Home.php', 118)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->pdf1()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:44:09 --> Undefined variable $cabecera
+in APPPATH\Views\crud1.php on line 1.
+ 1 APPPATH\Views\crud1.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\crud1.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\crud1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('crud1.php', [], true)
+ 5 APPPATH\Controllers\Home.php(14): view('crud1.php')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:46:08 --> Undefined variable $data
+in APPPATH\Controllers\Usuarios.php on line 13.
+ 1 APPPATH\Controllers\Usuarios.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Usuarios.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:47:53 --> Undefined variable $filtrado
+in APPPATH\Controllers\Usuarios.php on line 20.
+ 1 APPPATH\Controllers\Usuarios.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $filtrado', 'APPPATH\\Controllers\\Usuarios.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:47:59 --> Undefined variable $data
+in APPPATH\Controllers\Usuarios.php on line 19.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Usuarios.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:48:02 --> Undefined variable $data
+in APPPATH\Controllers\Usuarios.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Usuarios.php', 18)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:48:04 --> Undefined variable $data
+in APPPATH\Controllers\Usuarios.php on line 17.
+ 1 APPPATH\Controllers\Usuarios.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Usuarios.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:48:08 --> Undefined variable $data
+in APPPATH\Controllers\Usuarios.php on line 13.
+ 1 APPPATH\Controllers\Usuarios.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'APPPATH\\Controllers\\Usuarios.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 14:48:35 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''asd11' and clave = '594f803b380a41396ed63dca39503542'' at line 1 in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(20): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-02 14:48:35 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Usuarios.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 14:48:44 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''asd11' and clave = '594f803b380a41396ed63dca39503542'' at line 1 in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(20): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-02 14:48:44 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Usuarios.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:48:58 --> Cannot access offset of type string on string
+in APPPATH\Controllers\Usuarios.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:57:40 --> Undefined global variable $_SESSION
+in APPPATH\Views\crud1.php on line 4.
+ 1 APPPATH\Views\crud1.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'APPPATH\\Views\\crud1.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\crud1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('crud1', [], true)
+ 5 APPPATH\Controllers\Libros.php(14): view('crud1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 14:57:48 --> Undefined variable $session
+in APPPATH\Views\crud1.php on line 4.
+ 1 APPPATH\Views\crud1.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Views\\crud1.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\crud1.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('crud1', [], true)
+ 5 APPPATH\Controllers\Libros.php(14): view('crud1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:03:32 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\crud1.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-12-02 15:04:38 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:05:11 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:05:15 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:05:21 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:05:28 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:05:43 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:05:46 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:06:29 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:06:37 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:07:12 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:07:54 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:07:57 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:09:04 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:11:49 --> Undefined constant "basename"
+in APPPATH\Views\crud1.php on line 7.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('crud1', [], true)
+ 4 APPPATH\Controllers\Libros.php(14): view('crud1', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Libros->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:13:04 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:13:37 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:14:11 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Usuarios.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:17:37 --> Undefined variable $cabecera
+in APPPATH\Views\index.php on line 1.
+ 1 APPPATH\Views\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\index.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(40): view('index')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->salir()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 15:33:09 --> mysqli_sql_exception: Unknown column 'usuario.id' in 'on clause' in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT logs.acc...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT logs.acc...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT logs.acc...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(45): CodeIgniter\Database\BaseConnection->query('SELECT logs.acc...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-02 15:33:09 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 15:33:47 --> mysqli_sql_exception: Unknown column 'usuario.id' in 'on clause' in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT logs.acc...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT logs.acc...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT logs.acc...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(45): CodeIgniter\Database\BaseConnection->query('SELECT logs.acc...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-02 15:33:47 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 15:33:51 --> mysqli_sql_exception: Unknown column 'usuario.id' in 'on clause' in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT logs.acc...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT logs.acc...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT logs.acc...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(45): CodeIgniter\Database\BaseConnection->query('SELECT logs.acc...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-12-02 15:33:54 --> mysqli_sql_exception: Unknown column 'usuario.id' in 'on clause' in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT logs.acc...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT logs.acc...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT logs.acc...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(45): CodeIgniter\Database\BaseConnection->query('SELECT logs.acc...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-12-02 15:34:02 --> mysqli_sql_exception: Unknown column 'usuario.id' in 'on clause' in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT logs.acc...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT logs.acc...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT logs.acc...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(45): CodeIgniter\Database\BaseConnection->query('SELECT logs.acc...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-02 15:34:02 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 15:34:25 --> mysqli_sql_exception: Unknown column 'usuario.id' in 'on clause' in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT logs.acc...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT logs.acc...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT logs.acc...')
+#3 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(45): CodeIgniter\Database\BaseConnection->query('SELECT logs.acc...')
+#4 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+#5 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-12-02 15:34:25 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:35:24 --> Array to string conversion
+in APPPATH\Controllers\Usuarios.php on line 47.
+ 1 APPPATH\Controllers\Usuarios.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Usuarios.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:36:14 --> syntax error, unexpected token "<", expecting end of file
+in APPPATH\Views\logs.php on line 41.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(47): view('logs', [])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:36:28 --> Undefined variable $cabecera
+in APPPATH\Views\logs.php on line 1.
+ 1 APPPATH\Views\logs.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\logs.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(47): view('logs', [])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:36:37 --> Undefined variable $cabecera
+in APPPATH\Views\logs.php on line 1.
+ 1 APPPATH\Views\logs.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\logs.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [...], true)
+ 5 APPPATH\Controllers\Usuarios.php(47): view('logs', [], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:36:45 --> Undefined variable $proceso1
+in APPPATH\Views\logs.php on line 32.
+ 1 APPPATH\Views\logs.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $proceso1', 'APPPATH\\Views\\logs.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(47): view('logs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:36:48 --> Undefined variable $proceso1
+in APPPATH\Views\logs.php on line 32.
+ 1 APPPATH\Views\logs.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $proceso1', 'APPPATH\\Views\\logs.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(47): view('logs', [...], [])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:37:03 --> Undefined variable $cabecera
+in APPPATH\Views\logs.php on line 1.
+ 1 APPPATH\Views\logs.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\logs.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [...], true)
+ 5 APPPATH\Controllers\Usuarios.php(47): view('logs', [], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:38:02 --> syntax error, unexpected token "foreach", expecting "," or ";"
+in APPPATH\Views\logs.php on line 33.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(49): view('logs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:38:07 --> Array to string conversion
+in APPPATH\Views\logs.php on line 32.
+ 1 APPPATH\Views\logs.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\logs.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(49): view('logs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:41:05 --> Undefined variable $libros
+in APPPATH\Controllers\Usuarios.php on line 42.
+ 1 APPPATH\Controllers\Usuarios.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libros', 'APPPATH\\Controllers\\Usuarios.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:41:16 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 37.
+ 1 APPPATH\Controllers\Usuarios.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:41:42 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 38.
+ 1 APPPATH\Controllers\Usuarios.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:41:48 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 38.
+ 1 APPPATH\Controllers\Usuarios.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:41:56 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 38.
+ 1 APPPATH\Controllers\Usuarios.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:42:19 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 38.
+ 1 APPPATH\Controllers\Usuarios.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:42:54 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 36.
+ 1 APPPATH\Controllers\Usuarios.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:42:54 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 36.
+ 1 APPPATH\Controllers\Usuarios.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:43:45 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 APPPATH\Controllers\Usuarios.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:44:12 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 APPPATH\Controllers\Usuarios.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:44:14 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 APPPATH\Controllers\Usuarios.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:44:21 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 APPPATH\Controllers\Usuarios.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:44:30 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 APPPATH\Controllers\Usuarios.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:44:48 --> Undefined variable $session
+in APPPATH\Controllers\Usuarios.php on line 29.
+ 1 APPPATH\Controllers\Usuarios.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'APPPATH\\Controllers\\Usuarios.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-02 15:45:12 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`prueba1_12`.`logs`, CONSTRAINT `logs_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`)) in C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\prueba_1-12\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `lo...', 0)
+#1 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `lo...')
+#2 C:\xampp\htdocs\prueba_1-12\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `lo...')
+#3 C:\xampp\htdocs\prueba_1-12\system\Database\BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query('INSERT INTO `lo...', Array, false)
+#4 C:\xampp\htdocs\prueba_1-12\system\Model.php(279): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\prueba_1-12\system\BaseModel.php(749): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\prueba_1-12\system\Model.php(667): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\prueba_1-12\system\BaseModel.php(659): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\prueba_1-12\app\Controllers\Usuarios.php(37): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(927): App\Controllers\Usuarios->login()
+#10 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#11 C:\xampp\htdocs\prueba_1-12\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\prueba_1-12\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-12-02 15:47:50 --> Undefined variable $libro
+in APPPATH\Views\logs.php on line 36.
+ 1 APPPATH\Views\logs.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'APPPATH\\Views\\logs.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(56): view('logs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:47:58 --> Undefined array key "usuario_usuario"
+in APPPATH\Views\logs.php on line 37.
+ 1 APPPATH\Views\logs.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario_usuario"', 'APPPATH\\Views\\logs.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\logs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('logs', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(56): view('logs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Usuarios->logs()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:50:48 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Libros.php on line 247.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:50:49 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Libros.php on line 247.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:50:50 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Libros.php on line 247.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:50:51 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Libros.php on line 247.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:50:52 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Libros.php on line 247.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Libros.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Libros')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Libros')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Libros', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-02 15:53:29 --> Class "App\Controllers\Log" not found
+in APPPATH\Controllers\Home.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->exportar1()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
