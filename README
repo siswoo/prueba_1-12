@@ -1,0 +1,9 @@
+Pasos a seguir para la instalación:
+
+1._ Clonar o descargar el repositorio
+2._ Ejecutar en mysql el archivo "bd.sql"
+3._ correr el codeigniter o ejecutar un ambiente web Apache
+4._ Ingresar al sistema con:
+
+Usuario: juan
+clave: 456123
